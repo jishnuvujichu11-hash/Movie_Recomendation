@@ -2,3 +2,4 @@ movie-env/
 movie-env311/
 Dataset/
 *.env
+*.zip
