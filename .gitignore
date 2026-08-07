@@ -4,3 +4,4 @@ Dataset/
 *.env
 *.zip
 *.csv
+*.pkl
