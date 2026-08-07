@@ -3,3 +3,4 @@ movie-env311/
 Dataset/
 *.env
 *.zip
+*.csv
